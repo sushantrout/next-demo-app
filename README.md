@@ -4,3 +4,4 @@ not-found.tsx
 layout.tsx
 loading.tsx
 error.tsx
+default.tsx
