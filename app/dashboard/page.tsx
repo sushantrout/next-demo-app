@@ -1,4 +1,4 @@
-export default function LineChart() {
+export default function Dashboard() {
     return (
         <div>
         <h1>Dashboard Comonent</h1>
